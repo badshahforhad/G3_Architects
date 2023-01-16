@@ -1,0 +1,616 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    background-color: #FF900E1A;
+    width: 100%;
+}
+
+.logo{
+    float: left;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 53px;
+    letter-spacing: 0em;
+    margin-left: 220px;
+    margin-top: 26px;
+   
+}
+
+.logo a{
+    text-decoration: none;
+    color: #000;
+}
+
+.g3{
+    color:#ff8a00;
+  
+}
+
+.menu{
+    float: right;
+    margin-right: 220px;
+    margin-top: 45px;
+   
+}
+
+.menu a{
+    text-decoration: none;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0em;
+    padding-left: 30px;
+    color: #424242;
+}
+
+
+.menu a:hover{
+    text-decoration: none;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0em;
+    padding-left: 30px;
+    color: #ff8a00;
+
+}
+
+.headerText {
+    margin-top: 180px;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #131313;
+
+}
+
+
+.headerText p {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    margin-left: 450px;
+    color: #727272;
+    width: 660px;
+    margin-top: 10px;
+
+}
+
+.exploreMorebtn{
+    height: 50px;
+    width: 135px;
+    border-radius: 5px;
+    border: 0px;
+    margin-top: 15px;
+    background: #FF900E;
+    color: #fff;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0em;
+
+}
+
+.exploreMorebtn a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.exploreMorebtn:hover{
+    background-color: #c97b21;
+    transition: 1s;
+}
+
+
+.bannerImage img {
+    width: 1200px;
+    height: 550px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding-bottom: 60px;
+}
+
+
+
+/* ========================================= Header Section End =============================== */
+
+
+
+.featureSection {
+    padding-top: 80px;
+}
+
+.featureImagesection {
+    width: 700px;
+    float: left;
+    margin-left: 200px;
+}
+
+.featureImagesection img {
+    width: 300px;
+    height: 300px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
+
+.featuresTextsection {
+    width: 1330px;
+}
+
+
+.quickColor{
+    color: #727272;
+}
+
+.ofOurcolor{
+    color: #131313;
+    font-weight: bold;
+}
+
+.featuresColor{
+    color: #FF900E ;
+    font-weight: bold;
+}
+
+
+.featuresTextsection h1{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 38px;
+    font-weight: 500;
+    padding-top: 195px;
+
+
+}
+
+
+.featuresTextsection p{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #727272;
+    padding-top: 20px;
+
+}
+
+
+.featuresSectionbtn{
+    height: 50px;
+    width: 135px;
+    border-radius: 5px;
+    border: 0px;
+    margin-top: 15px;
+    background: #FF900E;
+    color: #fff;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0em;
+}
+
+.featuresSectionbtn a{
+    text-decoration: none;
+    color: #fff;
+}
+
+
+.featuresSectionbtn:hover{
+    height: 50px;
+    width: 135px;
+    border-radius: 5px;
+    margin-top: 15px;
+    background: #FF900E;
+    color: #fff;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 23px;
+    background-color: #c97b21;
+    transition: 1s;
+}
+
+/* ====================================== Feature Section End============================== */
+
+
+
+
+.moreFeatures{
+    margin-top: 300px;
+    margin-left: 150px;
+}
+
+.column{
+    height: 100px;
+    width: 5px;
+    background-color:#FF900E;
+}
+
+
+.h1Section h1 {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 45px;
+    margin-top: -100px;
+    padding-left: 20px;
+}
+
+
+.h1Section p{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #727272;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: 470px;
+}
+
+
+.anotherHeadingsection {
+    width: 430px;
+    float: left;
+}
+
+
+.anotherHeadingsection h3{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 23px;
+    color: #131313;
+    padding-bottom: 5px;
+}
+.anotherHeadingsection p{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #727272;
+    width: 420px;
+
+}
+
+.text-section {
+    padding: 20px;
+    box-shadow: -5px 5px 20px 0px #0000000f;
+    width: 425px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+
+.text-section p{
+    width: 420px;
+}
+
+
+.moreFeaturesimgSection{
+    float: right;
+    margin-top: -240px;
+    margin-right: 140px;
+}
+
+
+.moreFeaturesimgSection img{
+    width: 600px;
+    height: 820px;
+}
+
+
+.tenYear {
+    float: right;
+    margin-top: 490px;
+    margin-right: -180px;
+}
+
+
+.tenYearplus {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 30px;
+    background-color: #FF900Eed;
+    padding: 35px;
+    border-radius: 8px;
+    color: #ffff;
+}
+
+.exprience{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 28px;
+}
+
+
+/* =================================== moreFeatures section end =========================== */
+
+.someFactsection{
+    padding-top: 750px;
+    margin-left: 150px;
+}
+
+
+.someFacttextSection h1 {
+        font-family: 'Work Sans', sans-serif;
+        font-size: 35px;
+        font-weight: 700;
+        line-height: 53px;
+        color: #131313;
+    }
+
+
+.someFacttextSection p{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 25px;
+    color: #727272;
+    width: 450px;
+    padding-top: 10px;
+}
+
+
+.someFactfeatureSection {
+    border: 1.6px solid #FF900E;
+    float: left;
+    margin-right: 50px;
+    width: 200px;
+    height: 170px;
+    border-radius: 8px;
+    margin-left: 50px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+
+
+.someFactfeatureSection h1{
+    text-align: center; 
+    padding-top: 10px; 
+    font-family: Work Sans;
+    font-size: 33px;
+    font-weight: 600;
+    line-height: 40px;
+    color: #424242;
+    
+}
+
+.someFactfeatureSection p{
+    text-align: center;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 23px;
+    color: #727272;
+}
+
+
+.someFactfeatureSection img{
+    padding-top: 36px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+
+.someFactfeatureSection:hover {
+    border: 1.6px solid #fff;
+    float: left;
+    margin-right: 50px;
+    width: 200px;
+    height: 170px;
+    border-radius: 8px;
+    margin-left: 50px;
+    margin-top: 80px;
+    transition: 0.5s;
+    box-shadow: 0px 15px 30px 1px #0000000f;
+
+}
+
+
+.someFactfeatureSection p:hover{
+    text-align: center;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 23px;
+    color: #FF900E;
+}
+
+/* =================================Some Fact Section End==============================  */
+
+.textContactsection{
+    float: left;
+    margin-left: 285px;
+    padding-top: 100px;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 23px;
+    color: #939090;
+}
+
+
+.contactUs{
+    color: #000;
+    ;
+}
+
+
+.contactButton{
+    height: 45px;
+    width: 110px;
+    border-radius: 5px;
+    border: 0px;
+    margin-top: 15px;
+    background: #FF900E;
+    color: #fff;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0em;
+}
+
+
+.contactButton:hover{
+    height: 45px;
+    width: 110px;
+    border-radius: 5px;
+    border: 0px;
+    margin-top: 15px;
+    background: #FFF;
+    color: #FF900E;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0em;
+    border: 2px solid #FF900E;
+    transition: 1s;
+}
+
+
+.contactForm {
+    border-radius: 5px;
+    padding: 20px;
+    width: 40%;
+    float: right;
+    margin-right: 175px;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 23px;
+    color: #727272;
+  }
+
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: #FF900E;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    height: 45px;
+    width: 110px;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+  }
+
+  #email{
+    height: 40px;
+    width: 602px;
+    padding-left: 10px;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 14px;
+    border-radius: 2px;
+    border: 1px solid #ccc;
+  }
+
+  
+  input[type=submit]:hover {
+    background-color: #c97b21;
+    transition: 1s;
+    height: 45px;
+    width: 110px;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+  }
+  
+  
+/* ============================= end contact section========================= */
+
+
+.sponsorSection{
+    margin-top: 920px;
+}
+
+.sponsorText{
+    text-align: center;
+}
+
+.sponsorText h1{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 53px;
+    letter-spacing: 0em;
+    color: #131313;
+    
+}
+
+.sponsorText p{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 25px;
+    color: #727272;
+    width: 485px;
+    margin: auto;
+    padding-top: 15px;
+    padding-bottom: 40px;
+}
+
+.sponsorIcon{
+    text-align: center;
+}
+
+.sponsorIcon img{
+    padding-right: 80px;
+}
+
+
+/* ============================= end sponsor section========================= */
+
+
+.footer{
+    height: 70px;
+    width: 1200px;
+    background-color: #FFF4E7;
+    margin: auto;
+    margin-top: 64px;
+    border-radius: 8px;
+
+}
+
+.footer p{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 75px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+/* ============================= end footer section========================= */
